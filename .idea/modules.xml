@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListyCity.iml" filepath="$PROJECT_DIR$/.idea/modules/ListyCity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ListyCity.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ListyCity.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ListyCity.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ListyCity.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ListyCity.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ListyCity.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ListyCity.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ListyCity.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

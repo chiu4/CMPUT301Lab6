@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.listycity.CityListTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-10-16T01:18:15.679Z" hostname="DESKTOP-2SP0S6V" time="0.028">
+  <properties/>
+  <testcase name="testAddException()" classname="com.example.listycity.CityListTest" time="0.008"/>
+  <testcase name="testAdd()" classname="com.example.listycity.CityListTest" time="0.003"/>
+  <testcase name="testHasCity()" classname="com.example.listycity.CityListTest" time="0.003"/>
+  <testcase name="testCountCities()" classname="com.example.listycity.CityListTest" time="0.001"/>
+  <testcase name="testGetCities()" classname="com.example.listycity.CityListTest" time="0.001"/>
+  <testcase name="testDelete()" classname="com.example.listycity.CityListTest" time="0.001"/>
+  <testcase name="testDeleteException()" classname="com.example.listycity.CityListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
