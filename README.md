@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 5 - Firestore
+# CMPUT 301 : Lab 6 - Javadocs and JUnit
 
 ## Student Details
 
